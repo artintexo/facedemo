@@ -1,1 +1,6 @@
 ![Face GUI](https://github.com/artintexo/facedemo/blob/master/facedemo.png)
+
+Your can use demo token:
+```base64
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJhYTRlZGI3Yy1mMWI3LTQzNTEtYTFmYi1iYzU1NjcwNzU1MjEiLCJzdWIiOjIwLCJpYXQiOjE1NjAyMzk4MzgsIm5iZiI6MTU2MDIzOTgzOCwidHlwZSI6ImFjY2VzcyIsImZyZXNoIjpmYWxzZX0.YrO8a_N5cahEX3BSRc_2WU_K3EHVe7cdEyagrfVb8Z4
+```
